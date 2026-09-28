@@ -148,3 +148,27 @@ Se actualiza el stock del producto por transaccion exitosa.
 
 
 
+### Pruebas con Jets
+
+Se han creado diversas pruebas para realizar de manera automática
+
+```
+     npm test 
+```
+
+![Logotipo del proyecto](/images/test.png)
+
+## Lista de Pruebas 
+
+43 tests 
+4 suites
+
+todos ejecutados: verde 
+
+sin BD, sin Wompi real, sin webhook
+
+
+![Logotipo del proyecto](/images/test1.png)
+
+
+
